@@ -10,11 +10,8 @@ I'm a junior Flutter developer passionate about building beautiful, functional m
 💬 Ask me about Flutter, Dart, mobile app development
 
 📫 How to reach me: **[ahmedkhedrx1@gmail.com](mailto:ahmedkhedrx1@gmail.com)**
----
 
-### Connect with me:
 
-[![LinkedIn](https://www.linkedin.com/in/ahmed-khedr-62b8b3315/)
 
 
 
