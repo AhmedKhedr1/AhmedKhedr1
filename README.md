@@ -14,7 +14,7 @@ I'm a junior Flutter developer passionate about building beautiful, functional m
 
 ### Connect with me:
 
-[![LinkedIn](www.linkedin.com/in/ahmed-khedr-62b8b3315)
+[![LinkedIn](https://www.linkedin.com/in/ahmed-khedr-62b8b3315/)
 
 
 
