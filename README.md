@@ -1,7 +1,7 @@
 # Hi 👋, I'm [Ahmed]
 
-💻 About Me:
-I'm a junior Flutter developer passionate about building beautiful, functional mobile applications. I enjoy learning new technologies and continuously improving my skills in mobile app development.
+### 💻 About Me:
+I'm a **junior Flutter developer** passionate about building beautiful, functional mobile applications. I enjoy learning new technologies and continuously improving my skills in mobile app development.
 
 🌱 I’m currently learning advanced Flutter techniques and Dart
 
