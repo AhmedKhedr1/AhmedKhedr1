@@ -14,7 +14,7 @@
 - 💬 Ask me about Flutter, Dart, mobile app development.
 - 👨‍💻 All of my projects are available at [My Repository](https://github.com/AhmedKhedr1?tab=repositories).
 
-- 📫 How to reach me: **[ahmedkhedrx1@gmail.com](mailto:ahmedkhedrx1@gmail.com)**
+- 📫 How to reach me: **[ahmedkhedrx1@gmail.com](mailto:ahmedkhedrx1@gmail.com)**.
 
 
 ---
