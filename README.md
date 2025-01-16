@@ -16,6 +16,12 @@
 
 - 📫 How to reach me: **[ahmedkhedrx1@gmail.com](mailto:ahmedkhedrx1@gmail.com)**.
 
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedKhedr1&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+</div>
 
 ---
 
