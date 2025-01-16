@@ -15,7 +15,8 @@ I'm a **junior Flutter developer** passionate about building beautiful, function
 
 ### 🛠️ Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhedr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhedr&layout=compact&theme=radical&count_private=true)
+
 
 
 
