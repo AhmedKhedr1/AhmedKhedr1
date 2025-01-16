@@ -1,5 +1,5 @@
 # Hi 👋, I'm [Ahmed]
-
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedKhedr&color=blue)
 ### 💻 About Me:
 I'm a **junior Flutter developer** passionate about building beautiful, functional mobile applications. I enjoy learning new technologies and continuously improving my skills in mobile app development.
 
