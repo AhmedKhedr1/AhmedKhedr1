@@ -19,11 +19,14 @@
 
 ---
 
+
 ### 🛠️ Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhedr1&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" height="200"/>
 </div>
+
 ---
+
 ### 🚀 Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
@@ -41,6 +44,7 @@
   <img src="https://img.shields.io/badge/IntelliJ-%23FFCA28.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black" alt="IntelliJ"/>
   <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="Android Studio"/>
 </p>
+
 
 ---
 ### 👀 Profile Views
