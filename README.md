@@ -44,11 +44,9 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/RESTful-APIs-%2331A8FF.svg?style=for-the-badge&logo=RESTful&logoColor=white" alt="RESTful APIs"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white" alt="Visual Studio"/>
   <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="Android Studio"/>
-   <img src="https://img.shields.io/badge/Bloc-%2300D1FF.svg?style=for-the-badge&logo=Bloc&logoColor=white" alt="Bloc"/>
-  <img src="https://img.shields.io/badge/Cubit-%23F9A03C.svg?style=for-the-badge&logo=Cubit&logoColor=white" alt="Cubit"/>
+  
 </p>
 
 
