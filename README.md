@@ -1,10 +1,4 @@
 # Hi 👋, I'm [Ahmed]
-
-<div align="center">
-  <h1>🌟 Welcome to My GitHub Profile 🌟</h1>
-  <p>Explore my projects, contributions, and coding journey!</p>
-</div>
-
 ---
 
 ### 🌟 About Me
