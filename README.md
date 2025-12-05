@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedKhedr1&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedKhedr&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
 </div>
 
 ---
@@ -20,7 +20,7 @@
 
 ### 🛠️ Most Used Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhedr1&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhedr&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" height="200"/>
 </div>
 
 ---
