@@ -10,22 +10,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=AhmedKhedr1&show_icons=true&theme=radical" height="200" />
-</div>
-
----
-
-
-### 🛠️ Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=AhmedKhedr1&layout=compact&theme=radical&langs_count=6" height="200" />
-</div>
-
-
----
-
 ### 🚀 Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
