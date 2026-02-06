@@ -35,7 +35,7 @@
 
 ### 🤝 Connect with me
 <p align="center">
-  <a href="www.linkedin.com/in/ahmed-khedr-62b8b3315" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-khedr-62b8b3315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="www.youtube.com/@Ahmed-Khedr1" target="_blank">
+  <a href="https://www.youtube.com/@Ahmed-Khedr1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
