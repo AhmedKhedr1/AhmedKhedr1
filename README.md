@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning advanced Flutter techniques and Dart.  
 - 👯 I’m looking to collaborate on open-source Flutter projects.  
 - 💬 Ask me about Flutter, Dart, mobile app development.  
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/AhmedKhedr1?tab=repositories).  
+- 👨‍💻 All of my projects are available at [My Repository](https://github.com/AhmedKhedr1?tab=repositories).  
 - 📫 How to reach me: **[ahmedkhedr@gmail.com](mailto:ahmedkhedrx1@gmail.com)**
 
 ---
@@ -35,7 +35,7 @@
 
 ### 🤝 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-khedr-62b8b3315/" target="_blank">
+  <a href="www.linkedin.com/in/ahmed-khedr-62b8b3315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
