@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open-source Flutter projects.  
 - 💬 Ask me about Flutter, Dart, mobile app development.  
 - 👨‍💻 All of my projects are available at [My Repository](https://github.com/AhmedKhedr1?tab=repositories).  
-- 📫 How to reach me: **[ahmedkhedr@gmail.com](mailto:ahmedkhedrx1@gmail.com)**
+- 📫 How to reach me: **[ahmedkhedrx1@gmail.com](mailto:ahmedkhedrx1@gmail.com)**
 
 ---
 
@@ -50,9 +50,17 @@
 
 ---
 
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AhmedKhedr1&theme=dark&hide_border=false" />
+</p>
+
+
+
 ### 👀 Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedKhedr&color=brightgreen&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AhmedKhedr1&color=brightgreen&style=flat-square" alt="Profile Views"/>
 </div>
 
 
