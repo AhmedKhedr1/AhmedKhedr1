@@ -60,13 +60,6 @@
 ---
 
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedKhedr1&theme=dark&hide_border=false" />
-</p>
-
-
-
 ### 👀 Profile Views
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedKhedr1&color=brightgreen&style=flat-square" alt="Profile Views"/>
